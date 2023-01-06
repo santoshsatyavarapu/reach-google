@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.paraElement {
+  font-size: 15px;
+  color: #475569;
+  font-weight: 450;
+}
+.itemContainer {
+  display: flex;
+  align-items: center;
+  padding: 0;
+  justify-content: space-between;
+}
+.arrow {
+  height: 25px;
+}
